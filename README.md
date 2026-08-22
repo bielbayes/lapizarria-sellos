@@ -1,4 +1,4 @@
-# Sellos del historial · Pizarra (análisis de LaLiga)
+# Sellos del historial · LaPizarria (análisis de LaLiga)
 
 Este repositorio existe para una sola cosa: **demostrar que no reescribimos
 nuestro historial**.
@@ -11,8 +11,8 @@ que lo que decíamos ayer sigue diciendo lo mismo hoy.
 **No hace falta fiarse de nuestra palabra. Compruébalo:**
 
 ```bash
-git clone https://github.com/bielbayes/proyecto-laliga-sellos
-cd proyecto-laliga-sellos
+git clone https://github.com/bielbayes/lapizarria-sellos
+cd lapizarria-sellos
 python verificar.py
 ```
 
