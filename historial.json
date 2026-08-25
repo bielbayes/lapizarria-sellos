@@ -1005,6 +1005,70 @@
    "outcome": "won",
    "closing_odds": 1.085,
    "clv": 0.004608
+  },
+  {
+   "resolution_id": "cb6aaff9-6737-4761-8ac6-aef67591d1b1",
+   "pick_id": "2bb63d1c-3310-4642-9084-f7fed6f3cb88",
+   "resolved_at_utc": "2026-08-25 07:56:11.751569",
+   "outcome": "lost",
+   "closing_odds": 4.33,
+   "clv": 0.08776
+  },
+  {
+   "resolution_id": "84a265ab-3bdd-4f64-b702-bdbb95513191",
+   "pick_id": "024156e3-dfbf-4f19-b111-3a0f494f5da1",
+   "resolved_at_utc": "2026-08-25 07:56:11.754469",
+   "outcome": "lost",
+   "closing_odds": 1.97,
+   "clv": 0.055838
+  },
+  {
+   "resolution_id": "bed5a544-aa2b-452c-98ae-aaa4ed497e80",
+   "pick_id": "1c446806-7499-44a1-9527-3c03589520e7",
+   "resolved_at_utc": "2026-08-25 07:56:11.756533",
+   "outcome": "lost",
+   "closing_odds": 2.425,
+   "clv": 0.096907
+  },
+  {
+   "resolution_id": "f963baaf-60f7-4ff0-9ef3-6ed8a9ad8e62",
+   "pick_id": "417ca1b6-fd0f-4c1d-aa6e-7b2f4a1b87bf",
+   "resolved_at_utc": "2026-08-25 07:56:11.758506",
+   "outcome": "lost",
+   "closing_odds": 2.49,
+   "clv": 0.036145
+  },
+  {
+   "resolution_id": "4f98006c-79d7-4fb5-95f8-30634c9d9702",
+   "pick_id": "4f0e5764-5bcb-4de9-9deb-c402efd2c5ef",
+   "resolved_at_utc": "2026-08-25 07:56:11.762186",
+   "outcome": "lost",
+   "closing_odds": 4.33,
+   "clv": 0.08776
+  },
+  {
+   "resolution_id": "015d6b2b-eaba-4294-bb6c-7005b5941b49",
+   "pick_id": "9b5462ef-0524-4b30-931e-b3d53a9327b1",
+   "resolved_at_utc": "2026-08-25 07:56:11.764065",
+   "outcome": "lost",
+   "closing_odds": 1.97,
+   "clv": 0.055838
+  },
+  {
+   "resolution_id": "7dfe900c-d528-4574-801f-ff9f6e6f2155",
+   "pick_id": "c6e54982-b825-4027-869b-24dc950dc507",
+   "resolved_at_utc": "2026-08-25 07:56:11.765963",
+   "outcome": "lost",
+   "closing_odds": 2.425,
+   "clv": 0.096907
+  },
+  {
+   "resolution_id": "bc5d1ca5-1e6f-438e-a403-dc12efe01188",
+   "pick_id": "ca2b2474-b6d3-4eec-b530-b923f22b4095",
+   "resolved_at_utc": "2026-08-25 07:56:11.767759",
+   "outcome": "lost",
+   "closing_odds": 2.49,
+   "clv": 0.036145
   }
  ]
 }
