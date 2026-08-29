@@ -854,6 +854,21 @@
    "odds_snapshot": "[{\"bookmaker\": \"williamhill\", \"odds\": 1.06, \"captured_at_utc\": \"2026-08-25T07:56:12.681274+00:00\"}, {\"bookmaker\": \"livescorebet\", \"odds\": 1.05, \"captured_at_utc\": \"2026-08-25T07:56:12.681274+00:00\"}, {\"bookmaker\": \"virginbet\", \"odds\": 1.05, \"captured_at_utc\": \"2026-08-25T07:56:12.681274+00:00\"}, {\"bookmaker\": \"ladbrokes_uk\", \"odds\": 1.06, \"captured_at_utc\": \"2026-08-25T07:56:12.681274+00:00\"}, {\"bookmaker\": \"coral\", \"odds\": 1.06, \"captured_at_utc\": \"2026-08-25T07:56:12.681274+00:00\"}]",
    "edge": -0.023234,
    "stake_units": 1.0
+  },
+  {
+   "pick_id": "17868479-52e3-41e7-b79f-72b3fd649ac5",
+   "created_at_utc": "2026-08-29 07:16:07.102368",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:betis:real-madrid",
+   "market": "DC",
+   "selection": "X2",
+   "model_probability": 0.698391,
+   "fair_odds": 1.4319,
+   "offered_odds": 1.28,
+   "bookmaker": "onexbet",
+   "odds_snapshot": "[{\"bookmaker\": \"onexbet\", \"odds\": 1.28, \"captured_at_utc\": \"2026-08-29T07:16:05+00:00\"}, {\"bookmaker\": \"codere_it\", \"odds\": 1.27, \"captured_at_utc\": \"2026-08-29T07:16:05+00:00\"}]",
+   "edge": -0.109551,
+   "stake_units": 1.0
   }
  ],
  "resoluciones": [
