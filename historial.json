@@ -1255,6 +1255,22 @@
    "outcome": "won",
    "closing_odds": 1.1,
    "clv": 0.0
+  },
+  {
+   "resolution_id": "2acd4c46-563d-4ede-837f-1f6b5165c168",
+   "pick_id": "d3c91c5a-d29a-406b-bfee-7e5432ed85fb",
+   "resolved_at_utc": "2026-08-29 21:45:52.302404",
+   "outcome": "won",
+   "closing_odds": 1.295,
+   "clv": 0.119691
+  },
+  {
+   "resolution_id": "57296710-c9de-49d5-b606-09405839fa7b",
+   "pick_id": "0fd8ac1c-5b3a-40ef-8144-4faaeded6463",
+   "resolved_at_utc": "2026-08-29 21:45:52.307325",
+   "outcome": "won",
+   "closing_odds": 1.48,
+   "clv": 0.033784
   }
  ]
 }
