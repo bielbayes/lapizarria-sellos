@@ -1447,6 +1447,14 @@
    "outcome": "won",
    "closing_odds": 1.06,
    "clv": 0.0
+  },
+  {
+   "resolution_id": "8a4ae09d-f005-4712-8deb-4f9854ca0c2b",
+   "pick_id": "17868479-52e3-41e7-b79f-72b3fd649ac5",
+   "resolved_at_utc": "2026-09-04 21:46:06.023699",
+   "outcome": "lost",
+   "closing_odds": 1.135,
+   "clv": 0.127753
   }
  ]
 }
