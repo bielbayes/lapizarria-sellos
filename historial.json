@@ -1455,6 +1455,22 @@
    "outcome": "lost",
    "closing_odds": 1.135,
    "clv": 0.127753
+  },
+  {
+   "resolution_id": "6ec47dab-6ab8-42d0-8aab-165358330ef4",
+   "pick_id": "2524d377-ed17-4303-91e3-f1b49fa6dbb7",
+   "resolved_at_utc": "2026-09-05 21:46:06.566680",
+   "outcome": "lost",
+   "closing_odds": 1.145,
+   "clv": -0.004367
+  },
+  {
+   "resolution_id": "6f73e93a-52c1-4b24-8fc3-9cbd0be1f8af",
+   "pick_id": "e5c2df49-076b-489c-acf7-d701d84b6da4",
+   "resolved_at_utc": "2026-09-05 21:46:06.569907",
+   "outcome": "lost",
+   "closing_odds": 1.45,
+   "clv": 0.068966
   }
  ]
 }
