@@ -989,6 +989,21 @@
    "odds_snapshot": "[{\"bookmaker\": \"onexbet\", \"odds\": 1.22, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"tipico_de\", \"odds\": 1.16, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"unibet_fr\", \"odds\": 1.12, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"betclic_fr\", \"odds\": 1.15, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"winamax_fr\", \"odds\": 1.12, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"winamax_de\", \"odds\": 1.16, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"williamhill\", \"odds\": 1.2, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"betsson\", \"odds\": 1.21, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"nordicbet\", \"odds\": 1.21, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"pinnacle\", \"odds\": 1.16, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}, {\"bookmaker\": \"marathonbet\", \"odds\": 1.2, \"captured_at_utc\": \"2026-08-31T07:16:02+00:00\"}]",
    "edge": -0.139912,
    "stake_units": 1.0
+  },
+  {
+   "pick_id": "59dcc999-a7a0-4139-8b85-be23e19ddeee",
+   "created_at_utc": "2026-09-06 17:16:20.625827",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:valencia:barcelona",
+   "market": "1X2",
+   "selection": "away",
+   "model_probability": 0.655671,
+   "fair_odds": 1.5252,
+   "offered_odds": 1.31,
+   "bookmaker": "betfair_ex_eu",
+   "odds_snapshot": "[{\"bookmaker\": \"onexbet\", \"odds\": 1.3, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"betfair_ex_eu\", \"odds\": 1.31, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"betsson\", \"odds\": 1.27, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"nordicbet\", \"odds\": 1.27, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"unibet_fr\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"betclic_fr\", \"odds\": 1.27, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"codere_it\", \"odds\": 1.26, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"winamax_de\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"winamax_fr\", \"odds\": 1.24, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"tipico_de\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"everygame\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"pinnacle\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"williamhill\", \"odds\": 1.29, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"unibet_se\", \"odds\": 1.26, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"pmu_fr\", \"odds\": 1.24, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"leovegas_se\", \"odds\": 1.23, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"unibet_nl\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"marathonbet\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"matchbook\", \"odds\": 1.31, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"betonlineag\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"coolbet\", \"odds\": 1.29, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}]",
+   "edge": -0.167298,
+   "stake_units": 1.0
   }
  ],
  "resoluciones": [
@@ -1471,6 +1486,14 @@
    "outcome": "lost",
    "closing_odds": 1.45,
    "clv": 0.068966
+  },
+  {
+   "resolution_id": "87561404-1286-4d31-9e69-327440f04d55",
+   "pick_id": "ebb4cd75-9b5c-421e-b9a7-8f164ccf85ad",
+   "resolved_at_utc": "2026-09-06 17:16:19.168726",
+   "outcome": "won",
+   "closing_odds": 1.07,
+   "clv": 0.074766
   }
  ]
 }
