@@ -1004,6 +1004,81 @@
    "odds_snapshot": "[{\"bookmaker\": \"onexbet\", \"odds\": 1.3, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"betfair_ex_eu\", \"odds\": 1.31, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"betsson\", \"odds\": 1.27, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"nordicbet\", \"odds\": 1.27, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"unibet_fr\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"betclic_fr\", \"odds\": 1.27, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"codere_it\", \"odds\": 1.26, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"winamax_de\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"winamax_fr\", \"odds\": 1.24, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"tipico_de\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"everygame\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"pinnacle\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"williamhill\", \"odds\": 1.29, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"unibet_se\", \"odds\": 1.26, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"pmu_fr\", \"odds\": 1.24, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"leovegas_se\", \"odds\": 1.23, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"unibet_nl\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"marathonbet\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"matchbook\", \"odds\": 1.31, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"betonlineag\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}, {\"bookmaker\": \"coolbet\", \"odds\": 1.29, \"captured_at_utc\": \"2026-09-06T07:16:12.650186+00:00\"}]",
    "edge": -0.167298,
    "stake_units": 1.0
+  },
+  {
+   "pick_id": "be37d992-2dec-42fa-8e23-3764dcc4f2d1",
+   "created_at_utc": "2026-09-06 18:16:26.269238",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:elche:real-madrid",
+   "market": "DC",
+   "selection": "X2",
+   "model_probability": 0.841809,
+   "fair_odds": 1.1879,
+   "offered_odds": 1.06,
+   "bookmaker": "onexbet",
+   "odds_snapshot": "[{\"bookmaker\": \"onexbet\", \"odds\": 1.06, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"williamhill\", \"odds\": 1.06, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}]",
+   "edge": -0.107682,
+   "stake_units": 1.0
+  },
+  {
+   "pick_id": "c529d392-0108-408c-9bd2-49b7e9d98690",
+   "created_at_utc": "2026-09-06 18:16:26.272032",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:barcelona:racing",
+   "market": "DC",
+   "selection": "1X",
+   "model_probability": 0.922503,
+   "fair_odds": 1.084,
+   "offered_odds": 1.02,
+   "bookmaker": "onexbet",
+   "odds_snapshot": "[{\"bookmaker\": \"onexbet\", \"odds\": 1.02, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"williamhill\", \"odds\": 1.02, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}]",
+   "edge": -0.059047,
+   "stake_units": 1.0
+  },
+  {
+   "pick_id": "2790f7c9-6281-4c25-8310-8e20aa7a028d",
+   "created_at_utc": "2026-09-06 18:16:26.274848",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:barcelona:racing",
+   "market": "1X2",
+   "selection": "home",
+   "model_probability": 0.791191,
+   "fair_odds": 1.2639,
+   "offered_odds": 1.13,
+   "bookmaker": "onexbet",
+   "odds_snapshot": "[{\"bookmaker\": \"onexbet\", \"odds\": 1.13, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"betclic_fr\", \"odds\": 1.09, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"unibet_fr\", \"odds\": 1.06, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"marathonbet\", \"odds\": 1.12, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"betfair_ex_eu\", \"odds\": 1.09, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"winamax_fr\", \"odds\": 1.06, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"winamax_de\", \"odds\": 1.09, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"williamhill\", \"odds\": 1.11, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"tipico_de\", \"odds\": 1.09, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}]",
+   "edge": -0.137602,
+   "stake_units": 1.0
+  },
+  {
+   "pick_id": "6fe3ddf8-2779-494d-82c5-f2c69b8e36b7",
+   "created_at_utc": "2026-09-06 18:16:26.276830",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:barcelona:racing",
+   "market": "OU_2_5",
+   "selection": "over",
+   "model_probability": 0.695485,
+   "fair_odds": 1.4378,
+   "offered_odds": 1.17,
+   "bookmaker": "williamhill",
+   "odds_snapshot": "[{\"bookmaker\": \"williamhill\", \"odds\": 1.17, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}]",
+   "edge": -0.186283,
+   "stake_units": 1.0
+  },
+  {
+   "pick_id": "4b5f4443-12cf-4cba-aeb5-7660b93adbce",
+   "created_at_utc": "2026-09-06 18:16:26.279260",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:malaga:villarreal",
+   "market": "DC",
+   "selection": "X2",
+   "model_probability": 0.784342,
+   "fair_odds": 1.275,
+   "offered_odds": 1.32,
+   "bookmaker": "onexbet",
+   "odds_snapshot": "[{\"bookmaker\": \"williamhill\", \"odds\": 1.3, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}, {\"bookmaker\": \"onexbet\", \"odds\": 1.32, \"captured_at_utc\": \"2026-09-06T18:16:23+00:00\"}]",
+   "edge": 0.027488,
+   "stake_units": 1.0
   }
  ],
  "resoluciones": [
@@ -1494,6 +1569,14 @@
    "outcome": "won",
    "closing_odds": 1.07,
    "clv": 0.074766
+  },
+  {
+   "resolution_id": "d6e5cbd8-e7fc-469d-bd77-6b0c09fb9f67",
+   "pick_id": "59dcc999-a7a0-4139-8b85-be23e19ddeee",
+   "resolved_at_utc": "2026-09-06 18:16:21.794209",
+   "outcome": "won",
+   "closing_odds": 1.27,
+   "clv": 0.031496
   }
  ]
 }
