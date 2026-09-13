@@ -20,10 +20,10 @@ python verificar.py
 
 | | |
 |---|---|
-| Sellos publicados | 28 |
-| Selecciones en el historial | 72 |
-| Último sello | `74c4c9fad7fcc815e352a50710518b86…` |
-| Fecha del último sello | 2026-09-12 |
+| Sellos publicados | 29 |
+| Selecciones en el historial | 76 |
+| Último sello | `0646525dd3016eea99ab2d3182ae9cdf…` |
+| Fecha del último sello | 2026-09-13 |
 
 ## Cómo funciona
 
