@@ -1184,6 +1184,21 @@
    "odds_snapshot": "[{\"bookmaker\": \"williamhill\", \"odds\": 1.25, \"captured_at_utc\": \"2026-09-17T17:16:01+00:00\"}, {\"bookmaker\": \"nordicbet\", \"odds\": 1.27, \"captured_at_utc\": \"2026-09-17T17:16:01+00:00\"}, {\"bookmaker\": \"betsson\", \"odds\": 1.28, \"captured_at_utc\": \"2026-09-17T17:16:01+00:00\"}]",
    "edge": -0.148667,
    "stake_units": 1.0
+  },
+  {
+   "pick_id": "ad96dd9c-7a4e-4d40-83c9-f7994b24bb2a",
+   "created_at_utc": "2026-09-17 21:46:12.656504",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:deportivo:betis",
+   "market": "DC",
+   "selection": "X2",
+   "model_probability": 0.703299,
+   "fair_odds": 1.4219,
+   "offered_odds": 1.44,
+   "bookmaker": "onexbet",
+   "odds_snapshot": "[{\"bookmaker\": \"pinnacle\", \"odds\": 1.41, \"captured_at_utc\": \"2026-09-17T21:46:12+00:00\"}, {\"bookmaker\": \"williamhill\", \"odds\": 1.4, \"captured_at_utc\": \"2026-09-17T21:46:12+00:00\"}, {\"bookmaker\": \"codere_it\", \"odds\": 1.41, \"captured_at_utc\": \"2026-09-17T21:46:12+00:00\"}, {\"bookmaker\": \"onexbet\", \"odds\": 1.44, \"captured_at_utc\": \"2026-09-17T21:46:12+00:00\"}]",
+   "edge": -0.008348,
+   "stake_units": 1.0
   }
  ],
  "resoluciones": [
@@ -1754,6 +1769,14 @@
    "outcome": "won",
    "closing_odds": 1.095,
    "clv": 0.068493
+  },
+  {
+   "resolution_id": "e622ad1f-3f4f-4755-b3be-f5702c2934cf",
+   "pick_id": "4b5f4443-12cf-4cba-aeb5-7660b93adbce",
+   "resolved_at_utc": "2026-09-17 21:46:11.641900",
+   "outcome": "won",
+   "closing_odds": 1.315,
+   "clv": 0.003802
   }
  ]
 }
