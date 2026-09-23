@@ -1334,6 +1334,21 @@
    "odds_snapshot": "[{\"bookmaker\": \"pinnacle\", \"odds\": 1.21, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"nordicbet\", \"odds\": 1.23, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"marathonbet\", \"odds\": 1.24, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"williamhill\", \"odds\": 1.22, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"tipico_de\", \"odds\": 1.2, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"betclic_fr\", \"odds\": 1.19, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"winamax_de\", \"odds\": 1.21, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"unibet_fr\", \"odds\": 1.17, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"winamax_fr\", \"odds\": 1.18, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"onexbet\", \"odds\": 1.26, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}, {\"bookmaker\": \"betsson\", \"odds\": 1.23, \"captured_at_utc\": \"2026-09-21T12:01:10+00:00\"}]",
    "edge": -0.0588,
    "stake_units": 1.0
+  },
+  {
+   "pick_id": "44a9f3db-3944-4109-b8f6-1847793c1b9d",
+   "created_at_utc": "2026-09-23 17:16:23.082934",
+   "model_version": "dc-0.2.0(a0.3)+scan-0.3(prob>=0.65,cal-beta,consenso-mediana)",
+   "match_id": "2026-2027:barcelona:getafe",
+   "market": "DC",
+   "selection": "1X",
+   "model_probability": 0.953129,
+   "fair_odds": 1.0492,
+   "offered_odds": 1.01,
+   "bookmaker": "williamhill",
+   "odds_snapshot": "[{\"bookmaker\": \"williamhill\", \"odds\": 1.01, \"captured_at_utc\": \"2026-09-23T17:16:22+00:00\"}]",
+   "edge": -0.03734,
+   "stake_units": 1.0
   }
  ],
  "resoluciones": [
